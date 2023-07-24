@@ -6,8 +6,32 @@
 			"sources": [
 				"https://cdn.swiftierplace.com/thirteen_purple_day4_v2.png"
 			],
-			"x": 5,
-			"y": 0
+			"x": 974,
+			"y": 1224
+		},
+		{
+			"name": "Karma is a cat",
+			"sources": [
+				"https://cdn.swiftierplace.com/karma_cat_improved_alliance_heart.png"
+			],
+			"x": 1691,
+			"y": 1915
+		},
+		{
+			"name": "r/theweeknd",
+			"sources": [
+				"https://cdn.swiftierplace.com/The_Weeknd_Rplace.png"
+			],
+			"x": 469,
+			"y": 777
+		},
+		{
+			"name": "r/lego benny",
+			"sources": [
+				"https://cdn.swiftierplace.com/benny_full_pixelperfect.png"
+			],
+			"x": 807,
+			"y": 751
 		}
 	]
 }
