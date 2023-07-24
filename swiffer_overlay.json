@@ -41,12 +41,21 @@
    "x": 2889,
    "y": 332
   },
+  {
    "name": "evermore new location",
    "sources": [
     "https://raw.githubusercontent.com/SanjivanM/rplace23/main/evermore.png"
    ],
    "x": 2800,
    "y": 332
+  },
+  {
+   "name": "evermore new location moved up",
+   "sources": [
+    "https://raw.githubusercontent.com/SanjivanM/rplace23/main/evermore.png"
+   ],
+   "x": 2853,
+   "y": 202
   }
 	]
 }
