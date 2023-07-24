@@ -72,6 +72,14 @@
    ],
    "x": 2800,
    "y": 365
-  }
+  },
+  {
+			"name": "Folklore",
+			"sources": [
+				"https://cdn.swiftierplace.com/folklore.png"
+			],
+			"x": 2729,
+			"y": 379
+		}
 	]
 }
