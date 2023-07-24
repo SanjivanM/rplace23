@@ -40,6 +40,13 @@
    ],
    "x": 2889,
    "y": 332
+  },
+   "name": "evermore",
+   "sources": [
+    "https://raw.githubusercontent.com/SanjivanM/rplace23/main/evermore.png"
+   ],
+   "x": 2800,
+   "y": 332
   }
 	]
 }
