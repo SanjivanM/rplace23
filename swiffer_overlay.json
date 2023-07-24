@@ -56,6 +56,14 @@
    ],
    "x": 2853,
    "y": 202
+  },
+  {
+   "name": "evermore escape the box loc",
+   "sources": [
+    "https://raw.githubusercontent.com/SanjivanM/rplace23/main/evermore.png"
+   ],
+   "x": 2728,
+   "y": 365
   }
 	]
 }
