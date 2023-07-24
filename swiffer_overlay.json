@@ -7,7 +7,7 @@
 				"https://cdn.swiftierplace.com/thirteen_purple_day4_v2.png"
 			],
 			"x": 974,
-			"y": 1224
+			"y": 724
 		},
 		{
 			"name": "Karma is a cat",
@@ -15,7 +15,7 @@
 				"https://cdn.swiftierplace.com/karma_cat_improved_alliance_heart.png"
 			],
 			"x": 2191,
-			"y": 2415
+			"y": 915
 		},
 		{
 			"name": "r/theweeknd",
@@ -23,7 +23,7 @@
 				"https://cdn.swiftierplace.com/The_Weeknd_Rplace.png"
 			],
 			"x": 969,
-			"y": 1277
+			"y": 777
 		},
 		{
 			"name": "r/lego benny",
@@ -31,7 +31,7 @@
 				"https://cdn.swiftierplace.com/benny_full_pixelperfect.png"
 			],
 			"x": 1307,
-			"y": 1251
+			"y": 751
 		},
   {
    "name": "evermore",
@@ -39,7 +39,7 @@
     "https://raw.githubusercontent.com/SanjivanM/rplace23/main/evermore.png"
    ],
    "x": 56,
-   "y": 948
+   "y": 448
   }
 	]
 }
